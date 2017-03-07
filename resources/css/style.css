@@ -1,0 +1,41 @@
+html{
+  background-color: rgba(255,126,0,.8);
+  font-family: Helvetica;
+  text-align: center;
+  font-weight: bold
+}
+
+h1{
+  font-size: 70px;
+}
+
+h2{
+  font-size: 50px;
+}
+
+h3{
+  font-size: 30px;
+}
+
+
+div.header{
+  background-image: url("../photos/header.jpg");
+  color: white;
+}
+
+div.header p,
+a{
+  font-size: 20px;
+  color: white;
+}
+
+.designed{
+  background-image: url("../photos/header.jpg");
+  color: white;
+}
+
+.footer{
+  color: white;
+  background-image: url("../photos/header.jpg");
+  text-align: left;
+}
